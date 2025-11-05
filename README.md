@@ -1,4 +1,4 @@
-<!-- 🌙 Aesthetic GitHub Profile — MizuDev -->
+<!-- 🌙 Aesthetic GitHub Profile — MizunDev -->
 
 <!-- 💫 Header Banner -->
 <p align="center">
@@ -7,9 +7,9 @@
 
 <!-- 🩵 Profile Badges -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MizuDev&style=for-the-badge&color=6a5acd" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/MizuDev?label=Followers&style=for-the-badge&color=ff69b4"/>
-  <img src="https://img.shields.io/github/stars/MizuDev?label=Stars&style=for-the-badge&color=ffb6c1"/>
+  <img src="https://komarev.com/ghpvc/?username=MizunDev&style=for-the-badge&color=6a5acd" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/MizunDev?label=Followers&style=for-the-badge&color=ff69b4"/>
+  <img src="https://img.shields.io/github/stars/MizunDev?label=Stars&style=for-the-badge&color=ffb6c1"/>
   <img src="https://img.shields.io/badge/Coding%20with-%F0%9F%8C%9A%20Coffee%20and%20Love-ff69b4?style=for-the-badge"/>
 </p>
 
@@ -55,33 +55,33 @@
 
   <h2>🏆 / achievements /</h2>
   <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=MizuDev&theme=dracula&margin-w=15&margin-h=15&column=3&row=2" alt="Trophies"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=MizunDev&theme=dracula&margin-w=15&margin-h=15&column=3&row=2" alt="Trophies"/>
   </p>
 
   <br>
 
   <h2>🔥 / streaks & stats /</h2>
   <p align="center">
-    <img src="https://streak-stats.demolab.com?user=MizuDev&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
+    <img src="https://streak-stats.demolab.com?user=MizunDev&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
   </p>
 
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=MizuDev&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&border_radius=10&icon_color=FF79C6&title_color=BD93F9&text_color=CFCFCF" height="150"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=MizunDev&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&border_radius=10&icon_color=FF79C6&title_color=BD93F9&text_color=CFCFCF" height="150"/>
   </p>
 
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MizuDev&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&border_radius=10&title_color=BD93F9&text_color=CFCFCF" height="150"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MizunDev&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&border_radius=10&title_color=BD93F9&text_color=CFCFCF" height="150"/>
   </p>
 
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MizuDev&layout=donut&theme=dracula&hide_border=true" height="180"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MizunDev&layout=donut&theme=dracula&hide_border=true" height="180"/>
   </p>
 
   <br>
 
   <h2>📊 / activity graph /</h2>
   <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=MizuDev&theme=dracula&bg_color=1a1b27&hide_border=true&area=true"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=MizunDev&theme=dracula&bg_color=1a1b27&hide_border=true&area=true"/>
   </p>
 
   <br>
