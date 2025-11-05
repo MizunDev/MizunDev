@@ -61,7 +61,7 @@
   <br>
 
   <p align="center">
-    <img src="https://media.tenor.com/Jsq28YVcRPQAAAAi/mizuki-mizuki-akiyama.gif" width="120" alt="cute divider"/>
+    <img src="https://media.tenor.com/CFFMeSQhpm8AAAAi/project-sekai-nene-kusanagi.gif" width="120" alt="cute divider"/>
   </p>
 
   <p align="center">
