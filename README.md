@@ -2,7 +2,7 @@
 
 <!-- 💫 Header Banner -->
 <p align="center">
-  <img src="https://i.postimg.cc/xCM65GZg/A-Tail-On-The-Screen-T-waifu2x-art-noise3-scale.png" width="100%" alt="Banner"/>
+  <img src="https://i.postimg.cc/Hk8XbYRY/A-Tail-On-The-Screen-T.jpg" width="100%" alt="Banner"/>
 </p>
 
 <!-- 🩵 Profile Badges -->
