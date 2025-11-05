@@ -1,105 +1,68 @@
 <!-- 🌙 Aesthetic GitHub Profile — MizunDev -->
 
-<!-- 💫 Header Banner -->
-<p align="center">
-  <img src="https://i.pinimg.com/736x/24/96/39/2496398cea4c54b4572f8d81f3122634.jpg" width="100%" alt="Banner"/>
-</p>
+![Banner](https://i.pinimg.com/736x/24/96/39/2496398cea4c54b4572f8d81f3122634.jpg)
 
-<!-- 🩵 Profile Badges -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MizunDev&style=for-the-badge&color=6a5acd" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=MizunDev&style=for-the-badge&color=6a5acd" />
   <img src="https://img.shields.io/github/followers/MizunDev?label=Followers&style=for-the-badge&color=ff69b4"/>
   <img src="https://img.shields.io/github/stars/MizunDev?label=Stars&style=for-the-badge&color=ffb6c1"/>
   <img src="https://img.shields.io/badge/Coding%20with-%F0%9F%8C%9A%20Coffee%20and%20Love-ff69b4?style=for-the-badge"/>
 </p>
 
-<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tr valign="top">
-    <td width="50%">
+## 🌙 / about me /
+*Software developer passionate about crafting robust, scalable and visually clean solutions — from cloud architecture and databases to AI and game development.*
 
-  <h2>🌙 / about me /</h2>
-  <p><i>
-    Software developer passionate about crafting robust, scalable and visually clean solutions — from cloud architecture and databases to AI and game development.
-  </i></p>
+- ⭐ Currently deep into **Game Dev, Oracle DB, Cloud Architecture & Machine Learning**
+- 💀 Mostly working on **private repos, uni projects & open-source collabs**
 
-  <ul>
-    <li>⭐ Currently deep into <b>Game Dev, Oracle DB, Cloud Architecture & Machine Learning</b></li>
-    <li>💀 Mostly working on <b>private repos, uni projects & open-source collabs</b></li>
-  </ul>
+---
 
-  <br>
+## 💻 / tech stack /
 
-  <h2>💻 / tech stack /</h2>
+**Languages**
+  
+![Langs](https://skillicons.dev/icons?i=php,java,python,sql,oracle)
 
-  <h4>Languages</h4>
-  <p align="left">
-    <img src="https://skillicons.dev/icons?i=php,java,python,sql,oracle" height="40"/>
-  </p>
+**Frameworks & Libraries**
+  
+![Frameworks](https://skillicons.dev/icons?i=dotnet,spring,django,laravel)
 
-  <h4>Frameworks & Libraries</h4>
-  <p align="left">
-    <img src="https://skillicons.dev/icons?i=dotnet,spring,django,laravel" height="40"/>
-  </p>
+**Tools & Platforms**
+  
+![Tools](https://skillicons.dev/icons?i=git,docker,oracle,aws,unity)
 
-  <h4>Tools & Platforms</h4>
-  <p align="left">
-    <img src="https://skillicons.dev/icons?i=git,docker,oracle,aws,unity" height="40"/>
-  </p>
+**Learning**
+  
+![Learning](https://skillicons.dev/icons?i=cpp,cs)
 
-  <h4>Learning</h4>
-  <p align="left">
-    <img src="https://skillicons.dev/icons?i=cpp,cs" height="40"/>
-  </p>
+---
 
-  <br>
+## 🏆 / achievements /
 
-  <h2>🏆 / achievements /</h2>
-  <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=MizunDev&theme=dracula&margin-w=15&margin-h=15&column=3&row=2" alt="Trophies"/>
-  </p>
+![Trophies](https://github-profile-trophy.vercel.app/?username=MizunDev&theme=dracula&margin-w=15&margin-h=15&column=3&row=2)
 
-  <br>
+---
 
-  <h2>🔥 / streaks & stats /</h2>
-  <p align="center">
-    <img src="https://streak-stats.demolab.com?user=MizunDev&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
-  </p>
+## 🔥 / streaks & stats /
 
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=MizunDev&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&border_radius=10&icon_color=FF79C6&title_color=BD93F9&text_color=CFCFCF" height="150"/>
-  </p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=MizunDev&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MizunDev&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&border_radius=10&title_color=BD93F9&text_color=CFCFCF" height="150"/>
-  </p>
+![Stats](https://github-readme-stats.vercel.app/api?username=MizunDev&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&border_radius=10&icon_color=FF79C6&title_color=BD93F9&text_color=CFCFCF)
 
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MizunDev&layout=donut&theme=dracula&hide_border=true" height="180"/>
-  </p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MizunDev&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&border_radius=10&title_color=BD93F9&text_color=CFCFCF)
 
-  <br>
+![Donut](https://github-readme-stats.vercel.app/api/top-langs/?username=MizunDev&layout=donut&theme=dracula&hide_border=true)
 
-  <h2>📊 / activity graph /</h2>
-  <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=MizunDev&theme=dracula&bg_color=1a1b27&hide_border=true&area=true"/>
-  </p>
+---
 
-  <br>
+## 📊 / activity graph /
 
-  <p align="center">
-    <img src="https://media1.tenor.com/m/AFmBYrF3L38AAAAC/mizuki-mizuki-akiyama.gif" width="120" alt="cute divider"/>
-  </p>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MizunDev&theme=dracula&bg_color=1a1b27&hide_border=true&area=true)
 
-  <p align="center">
-    <i>✨ Let's build something beautiful, one commit at a time ✨</i>
-  </p>
+---
 
-  </td>
+![Side Image](https://i.pinimg.com/736x/6d/3e/c3/6d3ec33c28b1a7a1e2817c17d97667a0.jpg)
 
-  <td width="50%">
-      <p align="center">
-        <img src="https://i.pinimg.com/736x/6d/3e/c3/6d3ec33c28b1a7a1e2817c17d97667a0.jpg" alt="Side Image" width="400"/>
-      </p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  ✨ *Let's build something beautiful, one commit at a time* ✨  
+</p>
