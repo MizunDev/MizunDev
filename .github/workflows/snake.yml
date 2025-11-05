@@ -1,0 +1,32 @@
+name: Generate GitHub Snake Animation
+
+on:
+  schedule:
+    # Se actualiza cada 12 horas
+    - cron: "0 */12 * * *"
+  # Permite ejecutarlo manualmente
+  workflow_dispatch:
+
+jobs:
+  build:
+    name: Generate Snake
+    runs-on: ubuntu-latest
+    steps:
+      # 1. Genera el archivo de la serpiente
+      - name: Generate github-contribution-grid-snake.svg
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          # Genera el archivo y lo pone en la carpeta 'dist'
+          outputs: dist/github-contribution-grid-snake.svg?palette=github-dark
+
+      # 2. Sube el archivo a una rama SEPARADA llamada 'output'
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          # Elige la rama 'output'. ¡NO 'main'!
+          target_branch: output
+          # El directorio que queremos subir
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
