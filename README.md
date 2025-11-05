@@ -2,7 +2,7 @@
 
 <!-- 💫 Header Banner -->
 <p align="center">
-  <img src="https://i.pinimg.com/736x/24/96/39/2496398cea4c54b4572f8d81f3122634.jpg" width="100%" alt="Banner"/>
+  <img src="https://i.pinimg.com/1200x/36/68/99/36689978f5036e283c75f06df36c0544.jpg" width="100%" alt="Banner"/>
 </p>
 
 <!-- 🩵 Profile Badges -->
