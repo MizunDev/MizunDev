@@ -1,9 +1,14 @@
+<!-- 🌌 MIZUNDEV PROFILE AESTHETIC REWORK 🌌 -->
 <p align="center">
   <img src="https://i.pinimg.com/736x/24/96/39/2496398cea4c54b4572f8d81f3122634.jpg" width="100%" alt="Banner"/>
 </p>
 
 <p align="center">
+  <!-- ✨ Profile badges section ✨ -->
   <img src="https://komarev.com/ghpvc/?username=MizunDev&style=flat-square&color=9c7eff" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/MizunDev?label=Followers&style=flat-square&color=bd93f9" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/MizunDev?label=Stars&style=flat-square&color=ff79c6" alt="Stars"/>
+  <img src="https://img.shields.io/github/last-commit/MizunDev/MizunDev?style=flat-square&color=50fa7b" alt="Last Commit"/>
 </p>
 
 <table align="center" width="100%">
@@ -48,11 +53,23 @@
   <td width="50%" align="center">
     <img src="https://i.pinimg.com/736x/6d/3e/c3/6d3ec33c28b1a7a1e2817c17d97667a0.jpg" width="400" alt="Side Image"/><br><br>
     
+  <!-- 🏆 Trophies -->
   <img src="https://github-profile-trophy.vercel.app/?username=MizunDev&theme=dracula&margin-w=10&margin-h=10&column=3&row=2" alt="Trophies"/><br><br>
 
+  <!-- 📊 Main stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=MizunDev&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&border_radius=10&icon_color=FF79C6&title_color=BD93F9&text_color=CFCFCF" alt="GitHub Stats"/><br><br>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MizunDev&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&border_radius=10&title_color=BD93F9&text_color=CFCFCF" alt="Top Languages"/>
+  <!-- 💬 Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MizunDev&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&border_radius=10&title_color=BD93F9&text_color=CFCFCF" alt="Top Languages"/><br><br>
+
+  <!-- 🔥 Streaks -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MizunDev&theme=dracula&hide_border=true&background=0D1117&ring=BD93F9&currStreakLabel=FF79C6" alt="Streak Stats"/><br><br>
+
+  <!-- 🍰 Contribution Pie -->
+  <img src="https://github-contributor-stats.vercel.app/api?username=MizunDev&limit=5&theme=dracula&combine_all_yearly_contributions=true" alt="Contributor Stats"/><br><br>
+
+  <!-- 🌈 Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MizunDev&theme=dracula&bg_color=0D1117&color=BD93F9&line=FF79C6&point=50fa7b&hide_border=true" alt="Activity Graph"/>
   </td>
   </tr>
 </table>
