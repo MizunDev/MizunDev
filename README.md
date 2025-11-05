@@ -84,7 +84,7 @@
   <br>
 
   <p align="center">
-    <img src="https://i.imgur.com/fj4zU0T.gif" width="120" alt="cute divider"/>
+    <img src="https://media.tenor.com/mo_j6m_9eQgAAAAi/innervoice-media.gif" width="120" alt="cute divider"/>
   </p>
 
   <p align="center">
