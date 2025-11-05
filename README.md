@@ -73,9 +73,7 @@
   <td width="50%">
       <p align="center">
         <img src="https://i.pinimg.com/736x/6d/3e/c3/6d3ec33c28b1a7a1e2817c17d97667a0.jpg" alt="Side Image" width="400"/>
-      </p>
-    </td>
-    <h2>🔥 / stats /</h2>
+        <h2>🔥 / stats /</h2>
 
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=MizunDev&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&border_radius=10&icon_color=FF79C6&title_color=BD93F9&text_color=CFCFCF" height="150"/>
@@ -95,7 +93,8 @@
   <p align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=MizunDev&theme=dracula&bg_color=1a1b27&hide_border=true&area=true"/>
   </p>
-
+      </p>
+    </td>
   <br>
   </tr>
 </table>
