@@ -60,7 +60,22 @@
 
   <br>
 
-  <h2>🔥 / stats /</h2>
+  <p align="center">
+    <img src="https://media.tenor.com/Jsq28YVcRPQAAAAi/mizuki-mizuki-akiyama.gif" width="120" alt="cute divider"/>
+  </p>
+
+  <p align="center">
+    <i>✨ Let's build something beautiful, one commit at a time ✨</i>
+  </p>
+
+  </td>
+
+  <td width="50%">
+      <p align="center">
+        <img src="https://i.pinimg.com/736x/6d/3e/c3/6d3ec33c28b1a7a1e2817c17d97667a0.jpg" alt="Side Image" width="400"/>
+      </p>
+    </td>
+    <h2>🔥 / stats /</h2>
 
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=MizunDev&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&border_radius=10&icon_color=FF79C6&title_color=BD93F9&text_color=CFCFCF" height="150"/>
@@ -82,31 +97,5 @@
   </p>
 
   <br>
-
-  <p align="center">
-    <img src="https://media.tenor.com/Jsq28YVcRPQAAAAi/mizuki-mizuki-akiyama.gif" width="120" alt="cute divider"/>
-  </p>
-
-  <p align="center">
-    <i>✨ Let's build something beautiful, one commit at a time ✨</i>
-  </p>
-
-  </td>
-
-  <td width="50%">
-      <!-- Side image -->
-      <p>
-        <img src="https://i.pinimg.com/736x/6d/3e/c3/6d3ec33c28b1a7a1e2817c17d97667a0.jpg" 
-             alt="Side Image" 
-             width="360" 
-             style="border-radius:12px; box-shadow: 0 6px 18px rgba(0,0,0,0.25);"/>
-      </p>
-
-      <!-- 🌸 Gadget debajo de la imagen -->
-   <div align="center" style="margin-top:20px;">
-        <h2>🎧 / now listening /</h2>
-        <img src="https://spotify-github-profile.vercel.app/api/view?uid=spotify_username&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=53b14f&bar_color_cover=true" alt="Spotify Now Playing" width="350" style="border-radius:12px;"/>
-      </div>
-    </td>
   </tr>
 </table>
