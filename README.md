@@ -60,10 +60,7 @@
 
   <br>
 
-  <h2>🔥 / streaks & stats /</h2>
-  <p align="center">
-    <img src="https://streak-stats.demolab.com?user=MizunDev&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
-  </p>
+  <h2>🔥 / stats /</h2>
 
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=MizunDev&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&border_radius=10&icon_color=FF79C6&title_color=BD93F9&text_color=CFCFCF" height="150"/>
