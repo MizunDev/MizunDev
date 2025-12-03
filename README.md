@@ -33,7 +33,7 @@
 
   <h4>Languages</h4>
   <p align="left">
-    <img src="https://skillicons.dev/icons?i=php,java,python,sql,oracle" height="40"/>
+    <img src="https://skillicons.dev/icons?i=php,java,python,sql,typescript,oracle" height="40"/>
   </p>
 
   <h4>Frameworks & Libraries</h4>
