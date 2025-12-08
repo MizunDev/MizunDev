@@ -74,7 +74,7 @@
       <p align="center">
         <img src="https://i.pinimg.com/736x/6d/3e/c3/6d3ec33c28b1a7a1e2817c17d97667a0.jpg" alt="Side Image" width="400"/>
 
-  <h2>📊 / activity graph / </h2>
+  <h2>📊 / activity graph /</h2>
   <p align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=MizunDev&theme=dracula&bg_color=1a1b27&hide_border=true&area=true"/>
   </p>
