@@ -55,7 +55,7 @@
 
   <h2>🏆 / achievements /</h2>
   <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=MizunDev&theme=dracula&margin-w=15&margin-h=15&column=3&row=2" alt="Trophies"/>
+    ![trophies](https://github-profile-trophy.vercel.app/?username=MizunDev&theme=dracula)
   </p>
 
   <br>
