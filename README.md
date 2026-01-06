@@ -53,14 +53,6 @@
 
   <br>
 
-<h2>🏆 / achievements /</h2>
- <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=MizunDev&show_icons=true&theme=dracula"
-    alt="GitHub Stats de MizunDev"
-  />
-</p>
-
 
 
   <br>
