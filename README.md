@@ -54,9 +54,8 @@
   <br>
 
   <h2>🏆 / achievements /</h2>
-  <p align="center">
-    ![trophies](https://github-profile-trophy.vercel.app/?username=MizunDev&theme=dracula)
-  </p>
+ ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MizunDev&show_icons=true&theme=dracula)
+
 
   <br>
 
